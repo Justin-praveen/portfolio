@@ -1,0 +1,6 @@
+import mern from '../contant/mern.png';
+import javas from '../contant/js.png';
+import py from '../contant/python.png';
+import hack from '../contant/hack.png';
+import pen from '../contant/pen test.png';
+import FacebookIcon from '@material-ui/icons/Facebook';

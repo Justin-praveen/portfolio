@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Josefin+Slab:wght@500&family=Tangerine:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Josefin+Slab:wght@500&family=Old+Standard+TT&family=Pridi:wght@200&family=Tangerine:wght@700&display=swap');
+
+
+
+.cafull{
+    background-color:black;
+    height: 850px;
+    color: white;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    opacity: 0.7;
+    margin: auto;
+    box-shadow: 10px 0px 4px 0px black;
+   
+}
+.d1{
+    margin-top: 10px;
+    -ms-flex-pack: end !important;
+        justify-content: flex-end !important;
+    -ms-flex-align: end !important;
+        align-items: flex-end !important;
+    margin: auto;
+    
+}
+
+.d2{
+    color: white;
+    text-align: center;
+    margin-bottom:auto;
+}
+.atop{
+    background-color: gray;
+    
+        
+}
+.con{
+    background-color: gray;
+      
+}
+.img-a{
+    border-radius: 300%;
+    box-shadow: 2px 2px 50px 1px red;
+   
+        
+}
+.cb{
+    background-color: rgb(12, 125, 139);
+    height: 600px;
+}
+
+
+
+
+.cafull{
+    background-color:black;
+    height: 750px;
+    color: white;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    opacity: 0.7;
+    box-shadow: 10px 0px 4px 0px black;
+   
+}
+.d1{
+    margin-top: 10px;
+    -ms-flex-pack: end !important;
+        justify-content: flex-end !important;
+    -ms-flex-align: end !important;
+        align-items: flex-end !important;
+    margin: auto;
+    
+}
+
+.d2{
+    color: white;
+    text-align: center;
+    margin-bottom:auto;
+}
+.atop{
+    background-color: gray;
+    
+        
+}
+.con{
+    background-color: gray;
+      
+}
+.d1 .img-a{
+    border-radius: 300%;
+    box-shadow: 2px 2px 50px 1px red;
+   
+        
+}
+
+.d2 p{
+    font-family: Pridi;
+}
